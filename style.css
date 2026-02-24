@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #333;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.language-toggle button,
+.mode-toggle button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.language-toggle button:hover,
+.mode-toggle button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.language-toggle button:focus,
+.mode-toggle button:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.language-toggle, .mode-toggle {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+}
+
+.language-toggle {
+    right: 150px;
+	margin-right: 10px;
+}
+
+section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+section h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+section ul {
+    margin-top: 0.5rem;
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+.profile-image {
+    margin: 1rem auto;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #333;
+}
+
+.light-mode .profile-image img {
+    border-color: #333;
+}
+
+.dark-mode .profile-image img {
+    border-color: #fff;
+}
+
+.light-mode header, .light-mode footer {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode header, .dark-mode footer {
+    background-color: #000;
+    color: #ddd;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+
