@@ -61,7 +61,7 @@ export function Hero() {
               }}
             >
               <Image
-                src="/images/profile.jpg"
+                src="/images/profile.webp"
                 alt="Miguel Antonio profile photo"
                 width={160}
                 height={160}
