@@ -11,7 +11,7 @@ export const dictionary: Record<Lang, Record<string, string>> = {
     langBtn: "ES",
     heroGreeting: "Hi, I'm Miguel Antonio",
     heroDesc:
-      "Developer specialized in Java (Spring Boot) and Python (Django). Passionate about building efficient and creative solutions.",
+      "Portfolio of Miguel Antonio, Backend Developer specializing in Java (Spring Boot) and Python (Django). E-commerce projects, real-time chat, and more. Download my CV and contact me!",
     heroContact: "Contact Me",
     heroCV: "Download CV",
     aboutTitle: "About Me",
@@ -73,7 +73,7 @@ export const dictionary: Record<Lang, Record<string, string>> = {
     langBtn: "EN",
     heroGreeting: "Hola, soy Miguel Antonio",
     heroDesc:
-      "Desarrollador especializado en Java (Spring Boot) y Python (Django). Apasionado por construir soluciones eficientes y creativas.",
+      "Portfolio de Miguel Antonio, Desarrollador Backend especializado en Java (Spring Boot) y Python (Django). Proyectos de e-commerce, chat en tiempo real, y más. ¡Descarga mi CV y contáctame!",
     heroContact: "Contactame",
     heroCV: "Descargar CV",
     aboutTitle: "Sobre Mi",
