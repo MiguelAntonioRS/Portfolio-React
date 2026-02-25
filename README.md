@@ -9,8 +9,6 @@
 
 **Backend Developer | Java & Python Specialist**
 
-![Portfolio Preview](assets/img/profile.jpg)
-
 </div>
 
 ---
