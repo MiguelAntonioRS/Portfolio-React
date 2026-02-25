@@ -183,17 +183,3 @@ copies or substantial portions of the Software.
 ### ⭐ If you like this portfolio, give me a star on GitHub! ⭐
 
 **Made with ❤️ by Miguel Antonio**
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelAntonioRS&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAntonioRS&layout=compact&theme=radical&hide_border=true)
-
-</div>
