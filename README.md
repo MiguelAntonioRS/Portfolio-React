@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge)](https://tu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge)](https://your-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/MiguelAntonioRS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-antonio-rojas-sucarino-0299a42b3/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rojassucarinomiguelantonio@gmail.com)
@@ -15,34 +15,34 @@
 
 ---
 
-## 📋 Tabla de Contenidos
+## 📋 Table of Contents
 
-- [Sobre Mí](#-sobre-mí)
-- [Tecnologías](#-tecnologías)
-- [Características del Portfolio](#-características-del-portfolio)
-- [Proyectos Destacados](#-proyectos-destacados)
-- [Educación](#-educación)
-- [Logros](#-logros)
-- [Contacto](#-contacto)
-- [Licencia](#-licencia)
-
----
-
-## 👨‍💻 Sobre Mí
-
-¡Hola! Soy **Miguel Antonio Rojas Sucarino**, un desarrollador apasionado por crear soluciones eficientes y creativas. Me especializo en **backend** con Java (Spring Boot) y Python (Django), pero también tengo experiencia trabajando con frontend usando Angular.
-
-Mi objetivo es construir software robusto y accesible que aporte valor real a los usuarios.
-
-### 🎯 Lo que me motiva:
-- 🔧 Resolver problemas complejos
-- 📚 Aprendizaje continuo
-- 🤝 Contribuir a proyectos open-source
-- 🚀 Crear aplicaciones escalables
+- [About Me](#-about-me)
+- [Technologies](#-technologies)
+- [Portfolio Features](#-portfolio-features)
+- [Featured Projects](#-featured-projects)
+- [Education](#-education)
+- [Achievements](#-achievements)
+- [Contact](#-contact)
+- [License](#-license)
 
 ---
 
-## 🛠 Tecnologías
+## 👨‍💻 About Me
+
+Hello! I'm **Miguel Antonio Rojas Sucarino**, a passionate developer focused on creating efficient and creative solutions. I specialize in **backend** development with Java (Spring Boot) and Python (Django), but I also have experience working with frontend using Angular.
+
+My goal is to build robust and accessible software that provides real value to users.
+
+### 🎯 What Drives Me:
+- 🔧 Solving complex problems
+- 📚 Continuous learning
+- 🤝 Contributing to open-source projects
+- 🚀 Building scalable applications
+
+---
+
+## 🛠 Technologies
 
 <div align="center">
 
@@ -75,76 +75,76 @@ Mi objetivo es construir software robusto y accesible que aporte valor real a lo
 
 ---
 
-## ✨ Características del Portfolio
+## ✨ Portfolio Features
 
-Este portfolio está construido con **HTML, CSS y JavaScript puro**, optimizado para ser rápido y accesible.
+This portfolio is built with **pure HTML, CSS, and JavaScript**, optimized for speed and accessibility.
 
-| Característica | Descripción |
+| Feature | Description |
 |---------------|-------------|
-| 🌙 **Modo Oscuro/Claro** | Toggle para cambiar entre temas |
-| 🌐 **Bilingüe** | Soporte completo para Español e Inglés |
-| 📱 **Responsive** | Adaptable a todos los dispositivos |
-| ⚡ **Animaciones** | Efectos de scroll reveal y typing |
-| 🎨 **Diseño Moderno** | Gradientes animados y glassmorphism |
-| 📄 **CV Descargable** | Versión ES y EN disponibles |
-| 🔗 **Links Directos** | GitHub, LinkedIn, Email, Twitter |
+| 🌙 **Dark/Light Mode** | Toggle to switch between themes |
+| 🌐 **Bilingual** | Full support for Spanish and English |
+| 📱 **Responsive** | Adaptable to all devices |
+| ⚡ **Animations** | Scroll reveal and typing effects |
+| 🎨 **Modern Design** | Animated gradients and glassmorphism |
+| 📄 **Downloadable CV** | ES and EN versions available |
+| 🔗 **Direct Links** | GitHub, LinkedIn, Email, Twitter |
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 1. **E-commerce con Spring Boot**
-Aplicación de comercio electrónico con autenticación Spring Security, gestión de productos y carrito de compras.
+### 1. **E-commerce with Spring Boot**
+E-commerce application with Spring Security authentication, product management, and shopping cart.
 - **Tech:** Java, Spring Boot, Spring Security, PostgreSQL, Docker
-- [🔗 Ver en GitHub](https://github.com/MiguelAntonioRS/Ecommerce-with-Spring)
-- [🌐 Demo en Render](https://ecommerce-with-spring-boot.onrender.com/)
+- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Ecommerce-with-Spring)
+- [🌐 Live Demo on Render](https://ecommerce-with-spring-boot.onrender.com/)
 
-### 2. **Web Store con Django**
-Tienda virtual creada con Django con gestión de productos y autenticación de usuarios.
+### 2. **Web Store with Django**
+Virtual store built with Django featuring product management and user authentication.
 - **Tech:** Python, Django, PostgreSQL, Bootstrap
-- [🔗 Ver en GitHub](https://github.com/MiguelAntonioRS/Web-Project-Django)
+- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Web-Project-Django)
 
 ### 3. **Chat Spring + Angular**
-Chat en tiempo real usando WebSocket con backend Spring Boot y frontend Angular.
+Real-time chat using WebSocket with Spring Boot backend and Angular frontend.
 - **Tech:** Java, Spring Boot, Angular, WebSocket, TypeScript
-- [🔗 Ver en GitHub](https://github.com/MiguelAntonioRS/Chat-Spring-Angular)
+- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Chat-Spring-Angular)
 
 ### 4. **BookStore App**
-Aplicación de librería construida con Spring Boot y frontend básico.
+Library application built with Spring Boot and basic frontend.
 - **Tech:** Java, Spring Boot, Thymeleaf, HTML/CSS
-- [🔗 Ver en GitHub](https://github.com/MiguelAntonioRS/BookStore-with-Spring-Boot)
+- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/BookStore-with-Spring-Boot)
 
 ### 5. **I Love Mom**
-Proyecto HTML/CSS/JS dedicado a mi madre con diseño personalizado.
+HTML/CSS/JS project dedicated to my mother with custom design.
 - **Tech:** HTML, CSS, JavaScript, Flexbox
-- [🔗 Ver en GitHub](https://github.com/MiguelAntonioRS/I-Love-Mom)
+- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/I-Love-Mom)
 
 ### 6. **Space Invaders Game**
-Juego clásico de Java centrado en la lógica gráfica y la jugabilidad.
+Classic Java game focused on graphics logic and gameplay.
 - **Tech:** Java, Swing, OOP, Graphics
-- [🔗 Ver en GitHub](https://github.com/MiguelAntonioRS/Space-Invaders-Game)
+- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Space-Invaders-Game)
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
-| Título | Institución | Período |
+| Degree | Institution | Period |
 |--------|-------------|---------|
-| **Ingeniero Informático** | Universidad de Holguín (UHO) | 2020 – 2025 |
+| **Bachelor's Degree in Computer Engineering** | University of Holguín (UHO) | 2020 – 2025 |
 
 ---
 
-## 🏆 Logros
+## 🏆 Achievements
 
-- ✅ **Graduado como Ingeniero Informático** - Sólida formación en desarrollo de software, algoritmos y diseño de sistemas
-- 🌍 **Contribuidor Open Source** - Mejoras y bug fixes en proyectos de GitHub
-- 💼 **Desarrollador Freelance** - Colaboraciones en sistemas de gestión para pequeñas empresas
-- 🎓 **Proyectos Universitarios** - Participación en competencias internas de programación
-- 🎃 **Hacktoberfest 2025** - Contribuciones a proyectos open-source con desarrolladores worldwide
+- ✅ **Graduated as Computer Engineer** - Solid training in software development, algorithms, and system design
+- 🌍 **Open Source Contributor** - Improvements and bug fixes on GitHub projects
+- 💼 **Freelance Developer** - Collaborations on management systems for small businesses
+- 🎓 **University Projects** - Participation in internal programming competitions
+- 🎃 **Hacktoberfest 2025** - Contributions to open-source projects with developers worldwide
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 <div align="center">
 
@@ -156,9 +156,9 @@ Juego clásico de Java centrado en la lógica gráfica y la jugabilidad.
 
 ---
 
-## 📄 Licencia
+## 📄 License
 
-Este proyecto está bajo la licencia MIT. Siéntete libre de usarlo como inspiración para tu propio portfolio.
+This project is under the MIT License. Feel free to use it as inspiration for your own portfolio.
 
 ```
 MIT License
@@ -180,15 +180,15 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-### ⭐ ¡Si te gusta este portfolio, déjame una estrella en GitHub! ⭐
+### ⭐ If you like this portfolio, give me a star on GitHub! ⭐
 
-**Hecho con ❤️ por Miguel Antonio**
+**Made with ❤️ by Miguel Antonio**
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
