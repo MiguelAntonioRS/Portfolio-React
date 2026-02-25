@@ -10,7 +10,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Miguel Antonio | Portfolio",
+  title: "Miguel Antonio | Backend Developer - Java Spring Boot & Python Django Portfolio",
   description:
     "Developer specialized in Java (Spring Boot) and Python (Django). Passionate about building efficient and creative solutions.",
   generator: "v0.app",
