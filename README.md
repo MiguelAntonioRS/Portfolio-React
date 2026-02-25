@@ -132,13 +132,13 @@ Classic Java game focused on graphics logic and gameplay.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- ✅ **Graduated as Computer Engineer** - Solid training in software development, algorithms, and system design
-- 🌍 **Open Source Contributor** - Improvements and bug fixes on GitHub projects
-- 💼 **Freelance Developer** - Collaborations on management systems for small businesses
-- 🎓 **University Projects** - Participation in internal programming competitions
-- 🎃 **Hacktoberfest 2025** - Contributions to open-source projects with developers worldwide
+- **Graduated as Computer Engineer** - Solid training in software development, algorithms, and system design
+- **Open Source Contributor** - Improvements and bug fixes on GitHub projects
+- **Freelance Developer** - Collaborations on management systems for small businesses
+- **University Projects** - Participation in internal programming competitions
+- **Hacktoberfest 2025** - Contributions to open-source projects with developers worldwide
 
 ---
 
@@ -146,7 +146,7 @@ Classic Java game focused on graphics logic and gameplay.
 
 <div align="center">
 
-| 📧 Email | 🔗 LinkedIn | 🐦 Twitter | 💼 GitHub |
+| Email | LinkedIn | Twitter | GitHub |
 |----------|-------------|-----------|----------|
 | [rojassucarinomiguelantonio@gmail.com](mailto:rojassucarinomiguelantonio@gmail.com) | [LinkedIn](https://www.linkedin.com/in/miguel-antonio-rojas-sucarino-0299a42b3/) | [@rojassucar0115](https://twitter.com/rojassucar0115) | [@MiguelAntonioRS](https://github.com/MiguelAntonioRS) |
 
@@ -154,7 +154,7 @@ Classic Java game focused on graphics logic and gameplay.
 
 ---
 
-## 📄 License
+## License
 
 This project is under the MIT License. Feel free to use it as inspiration for your own portfolio.
 
