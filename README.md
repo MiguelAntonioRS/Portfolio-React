@@ -1,4 +1,4 @@
-# 🚀 Miguel Antonio - Portfolio
+# Miguel Antonio - Portfolio
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About Me](#-about-me)
 - [Technologies](#-technologies)
@@ -26,21 +26,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hello! I'm **Miguel Antonio Rojas Sucarino**, a passionate developer focused on creating efficient and creative solutions. I specialize in **backend** development with Java (Spring Boot) and Python (Django), but I also have experience working with frontend using Angular.
 
 My goal is to build robust and accessible software that provides real value to users.
 
-### 🎯 What Drives Me:
-- 🔧 Solving complex problems
-- 📚 Continuous learning
-- 🤝 Contributing to open-source projects
-- 🚀 Building scalable applications
+### What Drives Me:
+- Solving complex problems
+- Continuous learning
+- Contributing to open-source projects
+- Building scalable applications
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 <div align="center">
 
@@ -73,58 +73,58 @@ My goal is to build robust and accessible software that provides real value to u
 
 ---
 
-## ✨ Portfolio Features
+## Portfolio Features
 
 This portfolio is built with **pure HTML, CSS, and JavaScript**, optimized for speed and accessibility.
 
 | Feature | Description |
 |---------------|-------------|
-| 🌙 **Dark/Light Mode** | Toggle to switch between themes |
-| 🌐 **Bilingual** | Full support for Spanish and English |
-| 📱 **Responsive** | Adaptable to all devices |
-| ⚡ **Animations** | Scroll reveal and typing effects |
-| 🎨 **Modern Design** | Animated gradients and glassmorphism |
-| 📄 **Downloadable CV** | ES and EN versions available |
-| 🔗 **Direct Links** | GitHub, LinkedIn, Email, Twitter |
+| **Dark/Light Mode** | Toggle to switch between themes |
+| **Bilingual** | Full support for Spanish and English |
+| **Responsive** | Adaptable to all devices |
+| **Animations** | Scroll reveal and typing effects |
+| **Modern Design** | Animated gradients and glassmorphism |
+| **Downloadable CV** | ES and EN versions available |
+| **Direct Links** | GitHub, LinkedIn, Email, Twitter |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. **E-commerce with Spring Boot**
 E-commerce application with Spring Security authentication, product management, and shopping cart.
 - **Tech:** Java, Spring Boot, Spring Security, PostgreSQL, Docker
-- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Ecommerce-with-Spring)
-- [🌐 Live Demo on Render](https://ecommerce-with-spring-boot.onrender.com/)
+- [View on GitHub](https://github.com/MiguelAntonioRS/Ecommerce-with-Spring)
+- [Live Demo on Render](https://ecommerce-with-spring-boot.onrender.com/)
 
 ### 2. **Web Store with Django**
 Virtual store built with Django featuring product management and user authentication.
 - **Tech:** Python, Django, PostgreSQL, Bootstrap
-- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Web-Project-Django)
+- [View on GitHub](https://github.com/MiguelAntonioRS/Web-Project-Django)
 
 ### 3. **Chat Spring + Angular**
 Real-time chat using WebSocket with Spring Boot backend and Angular frontend.
 - **Tech:** Java, Spring Boot, Angular, WebSocket, TypeScript
-- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Chat-Spring-Angular)
+- [View on GitHub](https://github.com/MiguelAntonioRS/Chat-Spring-Angular)
 
 ### 4. **BookStore App**
 Library application built with Spring Boot and basic frontend.
 - **Tech:** Java, Spring Boot, Thymeleaf, HTML/CSS
-- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/BookStore-with-Spring-Boot)
+- [View on GitHub](https://github.com/MiguelAntonioRS/BookStore-with-Spring-Boot)
 
 ### 5. **I Love Mom**
 HTML/CSS/JS project dedicated to my mother with custom design.
 - **Tech:** HTML, CSS, JavaScript, Flexbox
-- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/I-Love-Mom)
+- [View on GitHub](https://github.com/MiguelAntonioRS/I-Love-Mom)
 
 ### 6. **Space Invaders Game**
 Classic Java game focused on graphics logic and gameplay.
 - **Tech:** Java, Swing, OOP, Graphics
-- [🔗 View on GitHub](https://github.com/MiguelAntonioRS/Space-Invaders-Game)
+- [View on GitHub](https://github.com/MiguelAntonioRS/Space-Invaders-Game)
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Period |
 |--------|-------------|---------|
