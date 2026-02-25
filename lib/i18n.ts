@@ -23,7 +23,7 @@ export const dictionary: Record<Lang, Record<string, string>> = {
     skillsTitle: "Skills",
     projectsTitle: "Projects",
     viewOnGithub: "View on GitHub",
-    demoOnRender: "Demo",
+    demoOnRender: "Demo on Render",
     proj1Title: "E-commerce with Spring Boot",
     proj1Desc:
       "E-commerce application developed with Spring Boot that includes user authentication and authorization using Spring Security, product management, shopping cart functionality, and a scalable backend architecture.",
@@ -85,7 +85,7 @@ export const dictionary: Record<Lang, Record<string, string>> = {
     skillsTitle: "Habilidades",
     projectsTitle: "Proyectos",
     viewOnGithub: "Ver en GitHub",
-    demoOnRender: "Demo",
+    demoOnRender: "Demo en Render",
     proj1Title: "E-commerce con Spring Boot",
     proj1Desc:
       "Aplicacion de comercio electronico desarrollada con Spring Boot que incluye autenticacion y autorizacion de usuarios usando Spring Security, gestion de productos, carrito de compras y una arquitectura backend escalable.",
