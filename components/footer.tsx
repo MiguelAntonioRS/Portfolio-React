@@ -8,7 +8,7 @@ export function Footer() {
   return (
     <footer className="border-t border-border/30 py-8 text-center">
       <p className="text-sm text-muted-foreground">
-        {"© 2025 "}
+        {"© 2026 "}
         {t("footerText")}
       </p>
     </footer>
