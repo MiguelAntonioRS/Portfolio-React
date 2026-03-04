@@ -12,7 +12,6 @@ const skills = [
   "TypeScript",
   "Angular",
   "Golang",
-  "C / C++",
   "HTML & CSS",
   "TailwindCSS",
   "Bootstrap",
