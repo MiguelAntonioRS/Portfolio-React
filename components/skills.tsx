@@ -10,6 +10,7 @@ const skills = [
   "Django",
   "JavaScript",
   "TypeScript",
+  "React",
   "Angular",
   "HTML & CSS",
   "TailwindCSS",
