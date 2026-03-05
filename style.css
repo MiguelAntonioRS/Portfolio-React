@@ -1,10 +1,17 @@
+/* 1. Definición de variables para rendimiento y fácil mantenimiento */
+:root {
+    --primary-blue: #0069d9; /* Azul con mejor contraste */
+    --transition-speed: 0.3s;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Arial, sans-serif; /* Fuente más moderna */
 }
 
+/* 2. Modos de color usando variables (más rápido para el hilo principal) */
 body.light-mode {
     background-color: #ffffff;
     color: #333;
@@ -12,11 +19,11 @@ body.light-mode {
 
 body.dark-mode {
     background-color: #121212;
-    color: #ffffff;
+    color: #f8f9fa; /* Un blanco menos "agresivo" para la vista */
 }
 
 header {
-    background: #333;
+    background: #222; /* Un poco más oscuro para profundidad */
     color: #fff;
     padding: 1.5rem;
     text-align: center;
@@ -24,6 +31,7 @@ header {
 
 header h1 {
     font-size: 2.5rem;
+    margin-bottom: 0.5rem;
 }
 
 header nav a {
@@ -31,105 +39,90 @@ header nav a {
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
+    border-bottom: 2px solid transparent;
+    transition: border-color var(--transition-speed);
 }
 
+header nav a:hover {
+    border-color: var(--primary-blue);
+}
+
+/* 3. Optimización de Botones (Accesibilidad) */
 .language-toggle button,
 .mode-toggle button {
-    background-color: #007bff;
+    background-color: var(--primary-blue);
     color: #ffffff;
     border: none;
-    padding: 8px 16px;
-    border-radius: 5px;
+    padding: 10px 18px; /* Un poco más grandes para móviles */
+    border-radius: 6px;
     cursor: pointer;
     font-weight: bold;
     margin: 5px;
-    transition: background-color 0.3s, transform 0.2s;
+    transition: background-color var(--transition-speed), transform 0.2s;
+    /* Mejora para móviles: */
+    touch-action: manipulation; 
 }
 
 .language-toggle button:hover,
 .mode-toggle button:hover {
     background-color: #0056b3;
-    transform: scale(1.05);
+    transform: translateY(-2px); /* Efecto más moderno que el scale */
 }
 
-.language-toggle button:focus,
-.mode-toggle button:focus {
-    outline: none;
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
-}
-
+/* 4. Layout fijo optimizado */
 .language-toggle, .mode-toggle {
     position: fixed;
     top: 15px;
-    right: 15px;
     z-index: 1000;
 }
 
-.language-toggle {
-    right: 150px;
-	margin-right: 10px;
-}
+.mode-toggle { right: 15px; }
+.language-toggle { right: 145px; }
 
 section {
-    padding: 2rem;
+    padding: 3rem 1.5rem; /* Más espacio para respirar */
     max-width: 800px;
     margin: auto;
 }
 
 section h2 {
     font-size: 2rem;
-    color: #333;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    border-left: 5px solid var(--primary-blue);
+    padding-left: 15px;
 }
 
-section ul {
-    margin-top: 0.5rem;
-    list-style-type: disc;
-    margin-left: 20px;
-}
-
-footer {
-    text-align: center;
-    padding: 1rem;
-    background: #333;
-    color: #fff;
-    font-size: 0.9rem;
-}
-
+/* 5. Imagen de perfil (Evita saltos de diseño) */
 .profile-image {
-    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem auto;
 }
 
 .profile-image img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 3px solid #333;
-}
-
-.light-mode .profile-image img {
-    border-color: #333;
+    object-fit: cover; /* Clave para que no se deforme */
+    border: 4px solid #333;
+    transition: border-color var(--transition-speed);
 }
 
 .dark-mode .profile-image img {
-    border-color: #fff;
+    border-color: #f8f9fa;
 }
 
-.light-mode header, .light-mode footer {
-    background-color: #333;
+footer {
+    text-align: center;
+    padding: 2rem;
+    background: #222;
     color: #fff;
-}
-
-.dark-mode header, .dark-mode footer {
-    background-color: #000;
-    color: #ddd;
+    font-size: 0.9rem;
 }
 
 .icon {
-    width: 20px;
-    height: 20px;
+    width: 24px; /* Un poco más grandes para legibilidad */
+    height: 24px;
     vertical-align: middle;
     margin-right: 8px;
 }
-
-
