@@ -8,6 +8,7 @@ const skills = [
   "Spring Boot",
   "Python",
   "Django",
+  "Golang",
   "JavaScript",
   "TypeScript",
   "React",
