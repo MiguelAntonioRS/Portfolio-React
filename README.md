@@ -9,8 +9,7 @@
 
 **Backend Developer | Java & Python Specialist**
 
-</div>
-
+</div> 
 ---
 
 ## Table of Contents
