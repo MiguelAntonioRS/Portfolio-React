@@ -13,7 +13,7 @@
 
 ---
 
-## Table of Contents 
+## Table of Contents
 
 - [About Me](#-about-me)
 - [Technologies](#-technologies)
