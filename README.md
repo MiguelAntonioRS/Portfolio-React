@@ -179,5 +179,3 @@ copies or substantial portions of the Software.
 <div align="center">
 
 ### ⭐ If you like this portfolio, give me a star on GitHub! ⭐
-
-**Made with ❤️ by Miguel Antonio**
