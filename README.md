@@ -14,7 +14,7 @@
 --- 
 
 ## Table of Contents
- 
+
 - [About Me](#-about-me)
 - [Technologies](#-technologies)
 - [Portfolio Features](#-portfolio-features)
