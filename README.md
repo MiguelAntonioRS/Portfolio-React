@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rojassucarinomiguelantonio@gmail.com)
 
 **Backend Developer | Java & Python Specialist**
- 
+
 </div>
 
 ---
