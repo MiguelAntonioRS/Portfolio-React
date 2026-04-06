@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/MiguelAntonioRS) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-antonio-rojas-sucarino-0299a42b3/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rojassucarinomiguelantonio@gmail.com)
-
+ 
 **Backend Developer | Java & Python Specialist**
 
 </div>
