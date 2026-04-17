@@ -1,6 +1,6 @@
 # Miguel Antonio - Portfolio
  
-<div align="center"> 
+<div align="center">
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge)](https://your-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/MiguelAntonioRS) 
